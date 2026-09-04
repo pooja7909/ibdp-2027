@@ -1,0 +1,6 @@
+{
+  "name": "ibdp-computer-science-2027-student-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"start": "python -m http.server 4173"}
+}

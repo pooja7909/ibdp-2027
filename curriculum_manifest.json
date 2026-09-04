@@ -1,0 +1,1010 @@
+[
+  {
+    "topic": "A1.1",
+    "title": "A1.1 Computer hardware and operation",
+    "learning_statement": "A1.1.1",
+    "statement": "Describe the functions and interactions of the main CPU components.",
+    "syllabus_focus": "ALU; CU; IR; PC; MAR; MDR; AC; address, data and control buses; single-core, multi-core and co-processors.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.1",
+    "title": "A1.1 Computer hardware and operation",
+    "learning_statement": "A1.1.2",
+    "statement": "Describe the role of a GPU.",
+    "syllabus_focus": "GPU architecture for specific tasks and complex computations; video games; AI; large simulations; graphics rendering; machine learning.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.1",
+    "title": "A1.1 Computer hardware and operation",
+    "learning_statement": "A1.1.3",
+    "statement": "Explain the differences between the CPU and the GPU.",
+    "syllabus_focus": "HL only; design philosophy; usage scenarios; core architecture; processing power; memory access; power efficiency; task division; data sharing; coordinating execution.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.1",
+    "title": "A1.1 Computer hardware and operation",
+    "learning_statement": "A1.1.4",
+    "statement": "Explain the purposes of different types of primary memory.",
+    "syllabus_focus": "RAM; ROM; L1/L2/L3 cache; registers; CPU interaction; cache hit; cache miss.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.1",
+    "title": "A1.1 Computer hardware and operation",
+    "learning_statement": "A1.1.5",
+    "statement": "Describe the fetch, decode and execute cycle.",
+    "syllabus_focus": "Executing one machine-language instruction; memory and registers; address, data and control buses.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.1",
+    "title": "A1.1 Computer hardware and operation",
+    "learning_statement": "A1.1.6",
+    "statement": "Describe the process of pipelining in multi-core architectures.",
+    "syllabus_focus": "HL only; fetch, decode, execute and write-back; cores working independently and in parallel; performance.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.1",
+    "title": "A1.1 Computer hardware and operation",
+    "learning_statement": "A1.1.7",
+    "statement": "Describe internal and external types of secondary memory storage.",
+    "syllabus_focus": "Internal SSD, HDD, eMMC; external SSD, HDD, optical drives, flash drives, memory cards, NAS; scenario-based selection.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.1",
+    "title": "A1.1 Computer hardware and operation",
+    "learning_statement": "A1.1.8",
+    "statement": "Describe the concept of compression.",
+    "syllabus_focus": "Lossy and lossless compression; run-length encoding; transform coding.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.1",
+    "title": "A1.1 Computer hardware and operation",
+    "learning_statement": "A1.1.9",
+    "statement": "Describe the different types of services in cloud computing.",
+    "syllabus_focus": "SaaS; PaaS; IaaS; control; flexibility; resource management; resource availability.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.2",
+    "title": "A1.2 Data representation and computer logic",
+    "learning_statement": "A1.2.1",
+    "statement": "Describe the principal methods of representing data.",
+    "syllabus_focus": "Binary and hexadecimal integers; binary↔decimal; hexadecimal↔decimal; binary↔hexadecimal.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.2",
+    "title": "A1.2 Data representation and computer logic",
+    "learning_statement": "A1.2.2",
+    "statement": "Explain how binary is used to store data.",
+    "syllabus_focus": "Binary encoding; storage and retrieval; integers; strings; characters; images; audio; video.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.2",
+    "title": "A1.2 Data representation and computer logic",
+    "learning_statement": "A1.2.3",
+    "statement": "Describe the purpose and use of logic gates.",
+    "syllabus_focus": "AND; OR; NOT; NAND; NOR; XOR; XNOR; binary computing; computer-system applications.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.2",
+    "title": "A1.2 Data representation and computer logic",
+    "learning_statement": "A1.2.4",
+    "statement": "Construct and analyse truth tables.",
+    "syllabus_focus": "Truth tables; problem descriptions; Boolean expressions; logic diagrams; Karnaugh maps; algebraic simplification.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.2",
+    "title": "A1.2 Data representation and computer logic",
+    "learning_statement": "A1.2.5",
+    "statement": "Construct logic diagrams.",
+    "syllabus_focus": "Standard symbols; inputs and outputs; combinations of gates; Boolean algebra simplification.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.3",
+    "title": "A1.3 Operating systems and control systems",
+    "learning_statement": "A1.3.1",
+    "statement": "Describe the role of operating systems.",
+    "syllabus_focus": "Abstract hardware complexities; manage system resources.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.3",
+    "title": "A1.3 Operating systems and control systems",
+    "learning_statement": "A1.3.2",
+    "statement": "Describe the functions of an operating system.",
+    "syllabus_focus": "System integrity; memory management; file system; device management; scheduling; security; accounting; GUI; virtualization; networking.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.3",
+    "title": "A1.3 Operating systems and control systems",
+    "learning_statement": "A1.3.3",
+    "statement": "Compare different approaches to scheduling.",
+    "syllabus_focus": "CPU-time allocation; first-come first-served; round robin; multilevel queue; priority scheduling.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.3",
+    "title": "A1.3 Operating systems and control systems",
+    "learning_statement": "A1.3.4",
+    "statement": "Evaluate the use of polling and interrupt handling.",
+    "syllabus_focus": "Event frequency; CPU overhead; battery/mains; predictability; controlled latency; security; keyboard/mouse; network; disk I/O; embedded and real-time systems.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.3",
+    "title": "A1.3 Operating systems and control systems",
+    "learning_statement": "A1.3.5",
+    "statement": "Explain the role of the operating system in managing multitasking and resource allocation.",
+    "syllabus_focus": "HL only; task scheduling; resource contention; deadlock.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.3",
+    "title": "A1.3 Operating systems and control systems",
+    "learning_statement": "A1.3.6",
+    "statement": "Describe the use of the control system components.",
+    "syllabus_focus": "HL only; input, process, output, feedback; open-loop and closed-loop; controller; sensors; actuators; transducers; control algorithm.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.3",
+    "title": "A1.3 Operating systems and control systems",
+    "learning_statement": "A1.3.7",
+    "statement": "Explain the use of control systems in a range of real-world applications.",
+    "syllabus_focus": "HL only; autonomous vehicles; thermostats; elevators; washing machines; traffic signals; irrigation; home security; automatic doors.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A1.4",
+    "title": "A1.4 Translation",
+    "learning_statement": "A1.4.1",
+    "statement": "Evaluate the translation processes of interpreters and compilers.",
+    "syllabus_focus": "HL only; mechanics and use cases; error detection; translation time; portability; applicability; JIT; bytecode interpreters; rapid development/testing; performance-critical applications; cross-platform development.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.1",
+    "title": "A2.1 Network fundamentals",
+    "learning_statement": "A2.1.1",
+    "statement": "Describe the purpose and characteristics of networks.",
+    "syllabus_focus": "LAN; WAN; PAN; VPN.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.1",
+    "title": "A2.1 Network fundamentals",
+    "learning_statement": "A2.1.2",
+    "statement": "Describe the purpose, benefits and limitations of modern digital infrastructures.",
+    "syllabus_focus": "Internet; cloud computing; distributed systems; edge computing; mobile networks; WWW; cryptocurrency blockchains; smart traffic lights; school networks.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.1",
+    "title": "A2.1 Network fundamentals",
+    "learning_statement": "A2.1.3",
+    "statement": "Describe the function of network devices.",
+    "syllabus_focus": "Gateways; hardware firewalls; modems; NICs; routers; switches; wireless access points; TCP/IP layer mapping.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.1",
+    "title": "A2.1 Network fundamentals",
+    "learning_statement": "A2.1.4",
+    "statement": "Describe the network protocols used for transport and application.",
+    "syllabus_focus": "TCP; UDP; HTTP; HTTPS; DHCP.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.1",
+    "title": "A2.1 Network fundamentals",
+    "learning_statement": "A2.1.5",
+    "statement": "Describe the function of the TCP/IP model.",
+    "syllabus_focus": "HL only; application, transport, internet, network interface layers; reliable data transmission.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.2",
+    "title": "A2.2 Network architecture",
+    "learning_statement": "A2.2.1",
+    "statement": "Describe the functions and practical applications of network topologies.",
+    "syllabus_focus": "Star; mesh; hybrid; reliability; speed; scalability; collisions; cost; home/small office; corporations; government; campuses.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.2",
+    "title": "A2.2 Network architecture",
+    "learning_statement": "A2.2.2",
+    "statement": "Describe the function of servers.",
+    "syllabus_focus": "HL only; DNS; DHCP; file; mail; proxy; web servers; function; scalability; reliability; security.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.2",
+    "title": "A2.2 Network architecture",
+    "learning_statement": "A2.2.3",
+    "statement": "Compare and contrast networking models.",
+    "syllabus_focus": "Client-server and peer-to-peer; benefits and drawbacks; web browsing; email; online banking; file sharing; VoIP; blockchain.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.2",
+    "title": "A2.2 Network architecture",
+    "learning_statement": "A2.2.4",
+    "statement": "Explain the concepts and applications of network segmentation.",
+    "syllabus_focus": "Performance; security; congestion; resource management; segmenting; subnetting; VLANs.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.3",
+    "title": "A2.3 Data transmissions",
+    "learning_statement": "A2.3.1",
+    "statement": "Describe different types of IP addressing.",
+    "syllabus_focus": "IPv4 vs IPv6; public vs private; static vs dynamic; NAT.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.3",
+    "title": "A2.3 Data transmissions",
+    "learning_statement": "A2.3.2",
+    "statement": "Compare types of media for data transmission.",
+    "syllabus_focus": "Fibre optic; twisted pair; wireless; bandwidth; installation complexity; cost; range; interference; attenuation; reliability; security.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.3",
+    "title": "A2.3 Data transmissions",
+    "learning_statement": "A2.3.3",
+    "statement": "Explain how packet switching is used to send data across a network.",
+    "syllabus_focus": "Packets; routing header; independent transmission; reassembly; switches; routers.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.3",
+    "title": "A2.3 Data transmissions",
+    "learning_statement": "A2.3.4",
+    "statement": "Explain how static routing and dynamic routing move data across local area networks.",
+    "syllabus_focus": "HL only; configuration; maintenance; complexity; resource use; convergence; scalability; network size; specific protocol not required.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.4",
+    "title": "A2.4 Network security",
+    "learning_statement": "A2.4.1",
+    "statement": "Discuss the effectiveness of firewalls at protecting a network.",
+    "syllabus_focus": "Traffic inspection/filtering; whitelists; blacklists; rules; strengths; limitations; NAT and security.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.4",
+    "title": "A2.4 Network security",
+    "learning_statement": "A2.4.2",
+    "statement": "Describe common network vulnerabilities.",
+    "syllabus_focus": "HL only; DDoS; insecure protocols; malware; MitM; phishing; SQL injection; XSS; unpatched software; weak authentication; zero-day exploits.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.4",
+    "title": "A2.4 Network security",
+    "learning_statement": "A2.4.3",
+    "statement": "Describe common network countermeasures.",
+    "syllabus_focus": "HL only; CSP; password policies; DDoS mitigation; email filtering; encrypted protocols; input validation; IDS; IPS; MFA; SSL/TLS certificates; updates; VPNs; security testing; training; wireless MAC whitelists/blacklists.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A2.4",
+    "title": "A2.4 Network security",
+    "learning_statement": "A2.4.4",
+    "statement": "Describe the process of encryption and digital certificates.",
+    "syllabus_focus": "Symmetric vs asymmetric cryptography; digital certificates; public/private keys; key management.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.1",
+    "title": "A3.1 Database fundamentals",
+    "learning_statement": "A3.1.1",
+    "statement": "Explain the features, benefits and limitations of a relational database.",
+    "syllabus_focus": "Tables; primary keys; foreign keys; composite keys; relationships; consistency; integrity; concurrency; retrieval; reduced duplication/redundancy; transactions; scalability; security; limitations including rigid schema and unstructured data handling.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.2",
+    "title": "A3.2 Database design",
+    "learning_statement": "A3.2.1",
+    "statement": "Describe database schemas.",
+    "syllabus_focus": "Conceptual; logical; physical schemas; data structure and organization.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.2",
+    "title": "A3.2 Database design",
+    "learning_statement": "A3.2.2",
+    "statement": "Construct ERDs.",
+    "syllabus_focus": "Entities; relationships; cardinality; modality; organized and efficient database design.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.2",
+    "title": "A3.2 Database design",
+    "learning_statement": "A3.2.3",
+    "statement": "Outline the different data types used in relational databases.",
+    "syllabus_focus": "Data-type consistency; effects of incorrect data types.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.2",
+    "title": "A3.2 Database design",
+    "learning_statement": "A3.2.4",
+    "statement": "Construct tables for relational databases.",
+    "syllabus_focus": "Primary keys; foreign keys; composite keys; concatenated keys; data integrity.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.2",
+    "title": "A3.2 Database design",
+    "learning_statement": "A3.2.5",
+    "statement": "Explain the difference between normal forms.",
+    "syllabus_focus": "1NF; 2NF; 3NF; atomicity; unique identification; functional dependencies; partial-key dependencies; non-key/transitive dependencies; duplication and dependency issues.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.2",
+    "title": "A3.2 Database design",
+    "learning_statement": "A3.2.6",
+    "statement": "Construct a database normalized to 3NF for a range of real-world scenarios.",
+    "syllabus_focus": "Library; hospital; e-commerce; school; employee; inventory; police crime reporting.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.2",
+    "title": "A3.2 Database design",
+    "learning_statement": "A3.2.7",
+    "statement": "Evaluate the need for denormalizing databases.",
+    "syllabus_focus": "Advantages/disadvantages; read-intensive performance; simpler queries; data redundancy risk.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.3",
+    "title": "A3.3 Database programming",
+    "learning_statement": "A3.3.1",
+    "statement": "Outline the differences between data language types within SQL.",
+    "syllabus_focus": "DDL; DML; defining structures; manipulating data.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.3",
+    "title": "A3.3 Database programming",
+    "learning_statement": "A3.3.2",
+    "statement": "Construct queries between two tables in SQL.",
+    "syllabus_focus": "JOIN; relational operators; filtering; pattern matching; ordering; SELECT; DISTINCT; FROM; WHERE; BETWEEN; ORDER BY; GROUP BY; HAVING; ASC; DESC; LIKE %; AND; OR; NOT.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.3",
+    "title": "A3.3 Database programming",
+    "learning_statement": "A3.3.3",
+    "statement": "Explain how SQL can be used to update data in a database.",
+    "syllabus_focus": "INSERT INTO; UPDATE SET; DELETE; indexes and performance; rebuild/reorganize after significant changes.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.3",
+    "title": "A3.3 Database programming",
+    "learning_statement": "A3.3.4",
+    "statement": "Construct calculations within a database using SQL’s aggregate functions.",
+    "syllabus_focus": "HL only; grouped data; AVERAGE; COUNT; MAX; MIN; SUM.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.3",
+    "title": "A3.3 Database programming",
+    "learning_statement": "A3.3.5",
+    "statement": "Describe different database views.",
+    "syllabus_focus": "HL only; virtual vs materialized views; complexity; consistency; independence; performance; query simplification; security; read-only/updatable.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.3",
+    "title": "A3.3 Database programming",
+    "learning_statement": "A3.3.6",
+    "statement": "Describe how transactions maintain data integrity in a database.",
+    "syllabus_focus": "HL only; ACID; BEGIN TRANSACTION; COMMIT; ROLLBACK.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.4",
+    "title": "A3.4 Alternative databases and data warehouses",
+    "learning_statement": "A3.4.1",
+    "statement": "Outline the different types of databases as approaches to storing data.",
+    "syllabus_focus": "HL only; NoSQL; cloud; spatial; in-memory; e-commerce; GIS; managed services; real-time analytics; social media; SaaS.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.4",
+    "title": "A3.4 Alternative databases and data warehouses",
+    "learning_statement": "A3.4.2",
+    "statement": "Explain the primary objectives of data warehouses in data management and business intelligence.",
+    "syllabus_focus": "HL only; append-only; subject-oriented; integrated; time-variant; non-volatile; query-optimized data.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.4",
+    "title": "A3.4 Alternative databases and data warehouses",
+    "learning_statement": "A3.4.3",
+    "statement": "Explain the role of OLAP and data mining for business intelligence.",
+    "syllabus_focus": "HL only; classification; clustering; regression; association rule discovery; sequential pattern discovery; anomaly detection; extracting meaningful information.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A3.4",
+    "title": "A3.4 Alternative databases and data warehouses",
+    "learning_statement": "A3.4.4",
+    "statement": "Describe the features of distributed databases.",
+    "syllabus_focus": "HL only; data consistency; ACID for reliable transactions.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.1",
+    "title": "A4.1 Machine learning fundamentals",
+    "learning_statement": "A4.1.1",
+    "statement": "Describe the types of machine learning and their applications in the real world.",
+    "syllabus_focus": "Deep learning; reinforcement learning; supervised learning; transfer learning; unsupervised learning; market basket analysis; medical imaging; NLP; object detection/classification; robotics navigation; sentiment analysis.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.1",
+    "title": "A4.1 Machine learning fundamentals",
+    "learning_statement": "A4.1.2",
+    "statement": "Describe the hardware requirements for various scenarios where machine learning is deployed.",
+    "syllabus_focus": "Processing; storage; scalability; laptops through advanced infrastructure; ASICs; edge devices; FPGAs; GPUs; TPUs; cloud platforms; HPC centres.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.2",
+    "title": "A4.2 Data preprocessing",
+    "learning_statement": "A4.2.1",
+    "statement": "Describe the significance of data cleaning.",
+    "syllabus_focus": "HL only; data quality; outliers; duplicates; incorrect/irrelevant data; formatting; missing data; imputation/deletion/predictive modelling; normalization; standardization.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.2",
+    "title": "A4.2 Data preprocessing",
+    "learning_statement": "A4.2.2",
+    "statement": "Describe the role of feature selection.",
+    "syllabus_focus": "HL only; retain informative attributes; filter, wrapper and embedded methods.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.2",
+    "title": "A4.2 Data preprocessing",
+    "learning_statement": "A4.2.3",
+    "statement": "Describe the importance of dimensionality reduction.",
+    "syllabus_focus": "HL only; curse of dimensionality; overfitting; computational complexity; sparsity; distance metrics; visualization; sample size; memory; preserve relevant information. PCA and LDA are beyond course scope.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.1",
+    "statement": "Explain how linear regression is used to predict continuous outcomes.",
+    "syllabus_focus": "HL only; predictor/response variables; slope; intercept; model fit; r².",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.2",
+    "statement": "Explain how classification techniques in supervised learning are used to predict discrete categorical outcomes.",
+    "syllabus_focus": "HL only; K-NN; decision trees; labelled data; recommendation systems; medical diagnosis.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.3",
+    "statement": "Explain the role of hyperparameter tuning when evaluating supervised learning algorithms.",
+    "syllabus_focus": "HL only; accuracy; precision; recall; F1; hyperparameters; overfitting; underfitting.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.4",
+    "statement": "Describe how clustering techniques in unsupervised learning are used to group data based on similarities in features.",
+    "syllabus_focus": "HL only; feature similarity; customer segmentation.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.5",
+    "statement": "Describe how learning techniques using the association rule are used to uncover relations between different attributes in large data sets.",
+    "syllabus_focus": "HL only; association-rule mining; interpretation; crime analysis example.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.6",
+    "statement": "Describe how an agent learns to make decisions by interacting with its environment in reinforcement learning.",
+    "syllabus_focus": "HL only; cumulative reward; agent; environment; actions; states; rewards; policies; exploration vs exploitation.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.7",
+    "statement": "Describe the application of genetic algorithms in various real-world situations.",
+    "syllabus_focus": "HL only; population; fitness function; selection; crossover; mutation; evaluation; termination; route planning/TSP.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.8",
+    "statement": "Outline the structure and function of ANNs and how multi-layer networks are used to model complex patterns in data sets.",
+    "syllabus_focus": "HL only; neurons; input; weights; bias; activation; output; perceptron; MLP input/hidden/output layers; classification; regression; pattern recognition.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.9",
+    "statement": "Describe how CNNs are designed to adaptively learn spatial hierarchies of features in images.",
+    "syllabus_focus": "HL only; input; convolution; activation; pooling; fully connected; output; layers; kernel size; stride; activation; loss function.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.3",
+    "title": "A4.3 Machine learning approaches",
+    "learning_statement": "A4.3.10",
+    "statement": "Explain the importance of model selection and comparison in machine learning.",
+    "syllabus_focus": "HL only; different algorithms; data characteristics; problem nature; complexity; desired outcomes; performance variability.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.4",
+    "title": "A4.4 Ethical considerations",
+    "learning_statement": "A4.4.1",
+    "statement": "Discuss the ethical implications of machine learning in real-world scenarios.",
+    "syllabus_focus": "Accountability; fairness; bias; consent; environmental impact; privacy; security; societal impact; transparency; training-data bias; misinformation; harassment; anonymity.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "A4.4",
+    "title": "A4.4 Ethical considerations",
+    "learning_statement": "A4.4.2",
+    "statement": "Discuss ethical aspects of the increasing integration of computer technologies into daily life.",
+    "syllabus_focus": "Continually reassessing guidelines; quantum computing; AR; VR; AI; individual rights; privacy; equity.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B1.1",
+    "title": "B1.1 Approaches to computational thinking",
+    "learning_statement": "B1.1.1",
+    "statement": "Construct a problem specification.",
+    "syllabus_focus": "Problem statement; constraints and limitations; objectives/goals; input specifications; output specifications; evaluation criteria.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B1.1",
+    "title": "B1.1 Approaches to computational thinking",
+    "learning_statement": "B1.1.2",
+    "statement": "Describe the fundamental concepts of computational thinking.",
+    "syllabus_focus": "Abstraction; algorithmic design; decomposition; pattern recognition.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B1.1",
+    "title": "B1.1 Approaches to computational thinking",
+    "learning_statement": "B1.1.3",
+    "statement": "Explain how applying computational thinking to fundamental concepts is used to approach and solve problems in computer science.",
+    "syllabus_focus": "Computational thinking does not necessarily involve programming; software development; data analysis; machine learning; database design; network security.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B1.1",
+    "title": "B1.1 Approaches to computational thinking",
+    "learning_statement": "B1.1.4",
+    "statement": "Trace flowcharts for a range of programming algorithms.",
+    "syllabus_focus": "Connector; decision; flowline; input/output; process/operation; start/end; execution flow; variable changes; output.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B2.1",
+    "title": "B2.1 Programming fundamentals",
+    "learning_statement": "B2.1.1",
+    "statement": "Construct and trace programs using a range of global and local variables of various data types.",
+    "syllabus_focus": "Boolean; char; decimal; integer; string; global/local scope.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.1",
+    "title": "B2.1 Programming fundamentals",
+    "learning_statement": "B2.1.2",
+    "statement": "Construct programs that can extract and manipulate substrings.",
+    "syllabus_focus": "Identify/extract substrings; alter; concatenate; replace.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.1",
+    "title": "B2.1 Programming fundamentals",
+    "learning_statement": "B2.1.3",
+    "statement": "Describe how programs use common exception handling techniques.",
+    "syllabus_focus": "Unexpected inputs; resource unavailability; logic errors; Java try/catch/finally; Python try/except/finally.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.1",
+    "title": "B2.1 Programming fundamentals",
+    "learning_statement": "B2.1.4",
+    "statement": "Construct and use common debugging techniques.",
+    "syllabus_focus": "Trace tables; breakpoint debugging; print statements; step-by-step execution.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.2",
+    "title": "B2.2 Data structures",
+    "learning_statement": "B2.2.1",
+    "statement": "Compare static and dynamic data structures.",
+    "syllabus_focus": "Memory allocation/resizing; speed; memory usage; flexibility.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B2.2",
+    "title": "B2.2 Data structures",
+    "learning_statement": "B2.2.2",
+    "statement": "Construct programs that apply arrays and Lists.",
+    "syllabus_focus": "Java 1D/2D arrays and ArrayLists; Python 1D/2D Lists; add/remove/traverse dynamic lists.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.2",
+    "title": "B2.2 Data structures",
+    "learning_statement": "B2.2.3",
+    "statement": "Explain the concept of a stack as a last in, first out (LIFO) data structure.",
+    "syllabus_focus": "Push; pop; peek; isEmpty; performance; memory; appropriate scenarios.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.2",
+    "title": "B2.2 Data structures",
+    "learning_statement": "B2.2.4",
+    "statement": "Explain the concept of a queue as a first in, first out (FIFO) data structure.",
+    "syllabus_focus": "Enqueue; dequeue; front; isEmpty; performance; memory; appropriate scenarios.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.3",
+    "title": "B2.3 Programming constructs",
+    "learning_statement": "B2.3.1",
+    "statement": "Construct programs that implement the correct sequence of code instructions to meet program objectives.",
+    "syllabus_focus": "Instruction order; avoid infinite loops; deadlock; incorrect output.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B2.3",
+    "title": "B2.3 Programming constructs",
+    "learning_statement": "B2.3.2",
+    "statement": "Construct programs utilizing appropriate selection structures.",
+    "syllabus_focus": "if; else; Java else if; Python elif; Boolean and relational operators.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.3",
+    "title": "B2.3 Programming constructs",
+    "learning_statement": "B2.3.3",
+    "statement": "Construct programs that utilize looping structures to perform repeated actions.",
+    "syllabus_focus": "Counted/conditional loops; conditions within loops; Boolean/relational operators.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.3",
+    "title": "B2.3 Programming constructs",
+    "learning_statement": "B2.3.4",
+    "statement": "Construct functions and modularization.",
+    "syllabus_focus": "Reusable functions; inputs; maintainable modules; local/global scope; benefits.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.4",
+    "title": "B2.4 Programming algorithms",
+    "learning_statement": "B2.4.1",
+    "statement": "Describe the efficiency of specific algorithms by calculating their Big O notation to analyse their scalability.",
+    "syllabus_focus": "Time/space complexity; Big O; scalability; algorithm choice.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B2.4",
+    "title": "B2.4 Programming algorithms",
+    "learning_statement": "B2.4.2",
+    "statement": "Construct and trace algorithms to implement a linear search and a binary search for data retrieval.",
+    "syllabus_focus": "Linear vs binary efficiency; sorted/indexed data; scenario-based choice.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.4",
+    "title": "B2.4 Programming algorithms",
+    "learning_statement": "B2.4.3",
+    "statement": "Construct and trace algorithms to implement bubble sort and selection sort, evaluating their time and space complexities.",
+    "syllabus_focus": "Big O; advantages/disadvantages; data sets.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.4",
+    "title": "B2.4 Programming algorithms",
+    "learning_statement": "B2.4.4",
+    "statement": "Explain the fundamental concept of recursion and its applications in programming.",
+    "syllabus_focus": "HL only; smaller similar subproblems; quicksort; advantages/limitations; complexity/memory; fractals; BSTs; sorting.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B2.4",
+    "title": "B2.4 Programming algorithms",
+    "learning_statement": "B2.4.5",
+    "statement": "Construct and trace recursive algorithms in a programming language.",
+    "syllabus_focus": "HL only; simple non-branching recursive algorithms.",
+    "level": "HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B2.5",
+    "title": "B2.5 File processing",
+    "learning_statement": "B2.5.1",
+    "statement": "Construct code to perform file-processing operations.",
+    "syllabus_focus": "Text files; sequential read/write/append; read/write/append/close; Java Scanner/FileWriter/BufferedReader; Python open/read/readline/write/close.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B3.1",
+    "title": "B3.1 Fundamentals of OOP for a single class",
+    "learning_statement": "B3.1.1",
+    "statement": "Evaluate the fundamentals of OOP.",
+    "syllabus_focus": "Classes; objects; inheritance; encapsulation; polymorphism; advantages/disadvantages in scenarios.",
+    "level": "SL+HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B3.1",
+    "title": "B3.1 Fundamentals of OOP for a single class",
+    "learning_statement": "B3.1.2",
+    "statement": "Construct a design of classes, their methods and behaviour.",
+    "syllabus_focus": "Application requirements; UML class diagrams; relationships; attributes; methods; software design/planning.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B3.1",
+    "title": "B3.1 Fundamentals of OOP for a single class",
+    "learning_statement": "B3.1.3",
+    "statement": "Distinguish between static and non-static variables and methods.",
+    "syllabus_focus": "Usage; scope; instance vs class variables; code application.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B3.1",
+    "title": "B3.1 Fundamentals of OOP for a single class",
+    "learning_statement": "B3.1.4",
+    "statement": "Construct code to define classes and instantiate objects.",
+    "syllabus_focus": "Class definition; objects; constructors; initial state; attributes.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B3.1",
+    "title": "B3.1 Fundamentals of OOP for a single class",
+    "learning_statement": "B3.1.5",
+    "statement": "Explain and apply encapsulation and information hiding in OOP.",
+    "syllabus_focus": "private/public; access control; integrity/security of object state.",
+    "level": "SL+HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B3.2",
+    "title": "B3.2 Fundamentals of OOP for multiple classes",
+    "learning_statement": "B3.2.1",
+    "statement": "Explain and apply the concept of inheritance in OOP to promote code reusability.",
+    "syllabus_focus": "HL only; parent/child hierarchy; extending classes; private/public/protected/default access.",
+    "level": "HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B3.2",
+    "title": "B3.2 Fundamentals of OOP for multiple classes",
+    "learning_statement": "B3.2.2",
+    "statement": "Construct code to model polymorphism and its various forms, such as method overriding.",
+    "syllabus_focus": "HL only; flexibility/reuse; dynamic overriding; static polymorphism.",
+    "level": "HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B3.2",
+    "title": "B3.2 Fundamentals of OOP for multiple classes",
+    "learning_statement": "B3.2.3",
+    "statement": "Explain the concept of abstraction in OOP.",
+    "syllabus_focus": "HL only; modular code; abstract classes; common interfaces.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B3.2",
+    "title": "B3.2 Fundamentals of OOP for multiple classes",
+    "learning_statement": "B3.2.4",
+    "statement": "Explain the role of composition and aggregation in class relationships.",
+    "syllabus_focus": "HL only; component objects; aggregation allows independent components; composition tightly coupled.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B3.2",
+    "title": "B3.2 Fundamentals of OOP for multiple classes",
+    "learning_statement": "B3.2.5",
+    "statement": "Explain commonly used design patterns in OOP.",
+    "syllabus_focus": "HL only; singleton; factory; observer; recurring programming challenges.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B4.1",
+    "title": "B4.1 Fundamentals of ADTs",
+    "learning_statement": "B4.1.1",
+    "statement": "Explain the properties and purpose of ADTs in programming.",
+    "syllabus_focus": "HL only; high-level description of data structures and associated operations.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B4.1",
+    "title": "B4.1 Fundamentals of ADTs",
+    "learning_statement": "B4.1.2",
+    "statement": "Evaluate linked lists.",
+    "syllabus_focus": "HL only; singly/doubly/circular; insertion/deletion/traversal/search; arrays comparison; memory/performance.",
+    "level": "HL",
+    "has_practical": false
+  },
+  {
+    "topic": "B4.1",
+    "title": "B4.1 Fundamentals of ADTs",
+    "learning_statement": "B4.1.3",
+    "statement": "Construct and apply linked lists: singly, doubly and circular.",
+    "syllabus_focus": "HL only; insertion; deletion; traversal; search.",
+    "level": "HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B4.1",
+    "title": "B4.1 Fundamentals of ADTs",
+    "learning_statement": "B4.1.4",
+    "statement": "Explain the structures and properties of BSTs.",
+    "syllabus_focus": "HL only; organization; insert/delete/traverse/search; tree diagrams.",
+    "level": "HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B4.1",
+    "title": "B4.1 Fundamentals of ADTs",
+    "learning_statement": "B4.1.5",
+    "statement": "Construct and apply sets as an ADT.",
+    "syllabus_focus": "HL only; unordered; unique elements; union/intersection/difference; membership/add/remove/subset/superset.",
+    "level": "HL",
+    "has_practical": true
+  },
+  {
+    "topic": "B4.1",
+    "title": "B4.1 Fundamentals of ADTs",
+    "learning_statement": "B4.1.6",
+    "statement": "Explain the core principles of ADTs.",
+    "syllabus_focus": "HL only; high-level description; hash tables; hashing functions; collision resolution; load factors; Java HashMap/HashSet; Python dict/set.",
+    "level": "HL",
+    "has_practical": true
+  }
+]
